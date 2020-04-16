@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Selenroid Android App TestSuite">
+<test name="All Tests" >
+<classes>
+<class name="selendroid.Tests.DisplayTextTest" />
+<class name="selendroid.Tests.RegistrationTest" />
+<class name="selendroid.Tests.ToastMsgTest" />
+<class name="selendroid.Tests.TouchActionTest" />
+</classes>
+</test>
+</suite>

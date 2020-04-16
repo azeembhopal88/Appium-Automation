@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="69568" started-at="2020-04-16T10:49:33 PKT" finished-at="2020-04-16T10:50:42 PKT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="69568" started-at="2020-04-16T10:49:33 PKT" finished-at="2020-04-16T10:50:42 PKT">
+      <class name="selendroid.Tests.ToastMsgTest">
+        <test-method status="PASS" signature="verifyToast()[pri:0, instance:selendroid.Tests.ToastMsgTest@614ddd49]" name="verifyToast" duration-ms="14126" started-at="2020-04-16T10:50:13 PKT" finished-at="2020-04-16T10:50:27 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyToast -->
+      </class> <!-- selendroid.Tests.ToastMsgTest -->
+      <class name="selendroid.Tests.DisplayTextTest">
+        <test-method status="PASS" signature="verifyText()[pri:0, instance:selendroid.Tests.DisplayTextTest@1e6d1014]" name="verifyText" duration-ms="11781" started-at="2020-04-16T10:49:33 PKT" finished-at="2020-04-16T10:49:45 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+      </class> <!-- selendroid.Tests.DisplayTextTest -->
+      <class name="selendroid.Tests.TouchActionTest">
+        <test-method status="PASS" signature="verifyLongPress()[pri:0, instance:selendroid.Tests.TouchActionTest@1f554b06]" name="verifyLongPress" duration-ms="14968" started-at="2020-04-16T10:50:27 PKT" finished-at="2020-04-16T10:50:42 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLongPress -->
+      </class> <!-- selendroid.Tests.TouchActionTest -->
+      <class name="selendroid.Tests.RegistrationTest">
+        <test-method status="PASS" signature="verifyRegistration()[pri:0, instance:selendroid.Tests.RegistrationTest@76707e36]" name="verifyRegistration" duration-ms="28633" started-at="2020-04-16T10:49:45 PKT" finished-at="2020-04-16T10:50:13 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+      </class> <!-- selendroid.Tests.RegistrationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

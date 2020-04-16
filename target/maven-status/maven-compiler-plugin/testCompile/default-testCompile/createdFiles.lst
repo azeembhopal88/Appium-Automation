@@ -1,0 +1,9 @@
+selendroid\Tests\DisplayTextTest.class
+selendroid\Tests\RegistrationTest.class
+selendroid\Tests\TouchActionTest.class
+selendroid\PageObjects\HomeScreenPage.class
+selendroid\Tests\ToastMsgTest.class
+selendroid\TestMethods\BaseClass.class
+selendroid\PageObjects\TouchActionPage.class
+selendroid\PageObjects\RegistrationPage.class
+selendroid\PageObjects\VerifyUserPage.class
